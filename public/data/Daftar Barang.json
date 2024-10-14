@@ -1,0 +1,26 @@
+{
+    "Daftar Barang": 
+    [
+        {
+            "Barang": "Handphone",
+            "Tanggal": "12-January-2024",
+            "Pemilik": "Adam",
+            "Alamat": "Kuningan",
+            "NoTelp": "+62 812-1711-5434",
+        },
+        {
+            "Barang": "Nitendo",
+            "Tanggal": "30-Maret-2024",
+            "Pemilik": "Drajad",
+            "Alamat": "Rembang",
+            "NoTelp": "+62 813-3212-0561",
+        },
+        {
+            "Barang": "Dompet",
+            "Tanggal": "25-Juni-2024",
+            "Pemilik": "Adhi",
+            "Alamat": "Tlumpu",
+            "NoTelp": "+62 895-3950-21670",
+        }
+    ]
+}
